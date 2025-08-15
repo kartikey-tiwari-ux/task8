@@ -47,8 +47,8 @@ The dataset contains:
 
 ## 📈 Key Insights
 
-1. **West Region** generated the highest sales (~$725K), followed by East (~$679K).
-2. **Technology** category had the highest sales (~$836K), ahead of Furniture and Office Supplies.
+1. **West Region** generated the highest sales.
+2. **Technology** category had the highest sales, ahead of Furniture and Office Supplies.
 3. **November 2017** was the peak sales month, with ~**$118K** in sales.
 4. **South Region** recorded the lowest sales (~$392K).
 5. **Highest Sales** observed in California, New York, and Texas.
